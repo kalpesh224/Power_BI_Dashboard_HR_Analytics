@@ -1,4 +1,4 @@
-#Power BI Dashboard for HR Analytics
+Power BI Dashboard for HR Analytics
 Objective-
 • Identified key factors to reduce attrition
 • Improved the hiring process 
